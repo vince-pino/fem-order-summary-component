@@ -156,10 +156,14 @@ footer {
     font-size: 14px;
   }
 
-  .desciption,
+  .description,
   .plan-details,
   .proceed-button,
   .cancel-button {
-    width: 325px;
+    width: 275px;
+  }
+
+  .plan-details {
+    font-size: 14px;
   }
 }
