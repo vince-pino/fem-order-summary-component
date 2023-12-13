@@ -138,26 +138,3 @@ footer {
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
-
-@media screen and (max-width: 375px) {
-  body {
-    background-image: url("/images/pattern-background-mobile.svg");
-  }
-
-  main {
-    width: 325px;
-  }
-
-  .order-summary {
-    font-size: 14px;
-  }
-
-  .description,
-  .plan-details,
-  .proceed-button,
-  .cancel-button {
-    width: 275px;
-  }
-  
-}
-
